@@ -5,8 +5,9 @@ Some problems for the dojo. To begin, clone this repo and try to build it.
 
 - Clone this git repo locally.
 - Setup a GOPATH
-- Run the tests
-- When your tests pass, increment the test version
+- Make sure it compiles
+- Find and fix the fixmes
+- Follow the dojo directions... IDK?
 
 
 # Hints
